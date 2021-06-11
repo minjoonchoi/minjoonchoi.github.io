@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "About What I Learned So Far"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MINJOON CHOI"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "MINJOON CHOI"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a data engineer **growing every single day**."
+  bio              : "Data engineer **growing every single day**."
   location         : "Seoul"
   email            :
   links:
